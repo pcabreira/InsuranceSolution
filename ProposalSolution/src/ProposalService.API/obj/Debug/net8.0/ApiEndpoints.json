@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ProposalService.API.Controllers.ProposalController",
+    "Method": "GetAll",
+    "RelativePath": "api/Proposal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProposalService.API.Controllers.ProposalController",
+    "Method": "ApproveProposal",
+    "RelativePath": "api/Proposal/{id}/approve",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProposalService.API.Controllers.ProposalController",
+    "Method": "Create",
+    "RelativePath": "api/Proposal/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "ProposalService.Application.Commands.CreateProposalCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

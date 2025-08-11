@@ -1,0 +1,11 @@
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\bin\Debug\net9.0\ContractService.Domain.deps.json
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\bin\Debug\net9.0\ContractService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\bin\Debug\net9.0\ContractService.Domain.pdb
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ContractService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ContractService.Domain.AssemblyInfoInputs.cache
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ContractService.Domain.AssemblyInfo.cs
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ContractService.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ContractService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\refint\ContractService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ContractService.Domain.pdb
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Domain\obj\Debug\net9.0\ref\ContractService.Domain.dll

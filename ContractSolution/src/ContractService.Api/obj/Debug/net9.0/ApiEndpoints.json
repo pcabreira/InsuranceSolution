@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ContractService.Api.Controllers.ContractsController",
+    "Method": "Create",
+    "RelativePath": "api/Contracts/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

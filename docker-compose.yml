@@ -1,0 +1,35 @@
+services:
+  proposals-db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: proposalsdb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"      # porta local 5433 para proposals-db
+    volumes:
+      - proposals_pgdata:/var/lib/postgresql/data
+
+  contracts-db:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: contractsdb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5434:5432"      # porta local 5434 para contracts-db
+    volumes:
+      - contracts_pgdata:/var/lib/postgresql/data
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    environment:
+      RABBITMQ_DEFAULT_USER: guest
+      RABBITMQ_DEFAULT_PASS: guest
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+volumes:
+  proposals_pgdata:
+  contracts_pgdata:

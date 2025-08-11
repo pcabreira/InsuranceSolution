@@ -1,0 +1,15 @@
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\bin\Debug\net8.0\ProposalService.Application.deps.json
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\bin\Debug\net8.0\ProposalService.Application.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\bin\Debug\net8.0\ProposalService.Application.pdb
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\bin\Debug\net8.0\ProposalService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\bin\Debug\net8.0\ProposalService.Domain.pdb
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.csproj.AssemblyReference.cache
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.AssemblyInfoInputs.cache
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.AssemblyInfo.cs
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\Proposal.AC0E986A.Up2Date
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\refint\ProposalService.Application.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ProposalService.Application.pdb
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Application\obj\Debug\net8.0\ref\ProposalService.Application.dll

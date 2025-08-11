@@ -1,0 +1,15 @@
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.csproj.AssemblyReference.cache
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.AssemblyInfoInputs.cache
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.AssemblyInfo.cs
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\bin\Debug\net9.0\ContractService.Application.deps.json
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\bin\Debug\net9.0\ContractService.Application.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\bin\Debug\net9.0\ContractService.Application.pdb
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\bin\Debug\net9.0\ContractService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\bin\Debug\net9.0\ContractService.Domain.pdb
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\Contract.7C2CA4F9.Up2Date
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\refint\ContractService.Application.dll
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ContractService.Application.pdb
+C:\Projetos\DotNet\AppSeguros\ContractSolution\src\ContractService.Application\obj\Debug\net9.0\ref\ContractService.Application.dll

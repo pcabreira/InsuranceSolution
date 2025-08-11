@@ -1,0 +1,11 @@
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\bin\Debug\net8.0\ProposalService.Domain.deps.json
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\bin\Debug\net8.0\ProposalService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\bin\Debug\net8.0\ProposalService.Domain.pdb
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ProposalService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ProposalService.Domain.AssemblyInfoInputs.cache
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ProposalService.Domain.AssemblyInfo.cs
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ProposalService.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ProposalService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\refint\ProposalService.Domain.dll
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ProposalService.Domain.pdb
+C:\Projetos\DotNet\AppSeguros\ProposalSolution\src\ProposalService.Domain\obj\Debug\net8.0\ref\ProposalService.Domain.dll
