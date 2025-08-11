@@ -97,7 +97,7 @@ A API estará disponível em `http://localhost:5000/swagger`.
 
 2. O **Handler** cria a entidade `Proposal` no domínio.
 3. Salva no PostgreSQL via `ProposalRepository`.
-4. Publica mensagem no RabbitMQ (`ProposalCreatedEvent`).
+4. Publica mensagem no RabbitMQ quando ocorre aprovação.
 
 ---
 
